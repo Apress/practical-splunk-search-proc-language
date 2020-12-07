@@ -1,0 +1,8 @@
+[11/Dec/2019:18:18:58] TSM backup_id=12 starting ...
+[11/Dec/2019:18:32:25] TSM backup_id=12 %complete=50
+[11/Dec/2019:18:45:49] TSM backup_id=12 %complete=75
+[11/Dec/2019:19:03:11] TSM backup_id=12 completed.
+[11/Dec/2019:19:06:13] TSM backup_id=17 starting ...
+[11/Dec/2019:19:34:43] TSM backup_id=17 %complete=50
+[11/Dec/2019:20:01:19] TSM backup_id=17 %complete=75
+[11/Dec/2019:20:33:34] TSM backup_id=17 i/o error.

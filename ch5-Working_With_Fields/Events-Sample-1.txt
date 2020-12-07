@@ -1,0 +1,6 @@
+[11/Dec/2019:18:18:58] Exception occurred java.lang.InterruptedException
+[11/Dec/2019:19:06:13] Exception thrown java.lang.RuntimeException
+[11/Dec/2019:19:18:23] A fatal error occurred java.lang.InterruptedException
+[11/Dec/2019:19:35:50] java.lang.NullPointerException exception found
+[11/Dec/2019:20:04:10] We may have caught a java.lang.NumberFormatException
+[11/Dec/2019:21:33:22] java.lang.RuntimeException - program aborting

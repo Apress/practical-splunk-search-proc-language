@@ -1,0 +1,2 @@
+[11/Dec/2019:18:18:58] TSM backup_id=12 user=tsm_admin numberof_files=28594 estimated_size_mb=5087 type=incremental policy=daily_incremental_prod_web storage=disk
+[11/Dec/2019:19:06:13] TSM backup_id=17 user=tsm_admin numberof_files=458750 estimated_size_mb=308709 type=full policy=weekly_full_prod_web storage=disk

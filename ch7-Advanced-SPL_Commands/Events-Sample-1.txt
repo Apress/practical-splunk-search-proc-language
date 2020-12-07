@@ -1,0 +1,3 @@
+[11/Dec/2019:18:18:58] sending email to jbarnes@acmecorp.com,ksmith21@acmecorp.com,rmanroe@acmecorp.com
+[11/Dec/2019:19:06:13] sending email to sjackson4@acmecorp.com,hbernstien@acmecorp.com
+[11/Dec/2019:19:18:23] sending email to cthomson@acmecorp.com

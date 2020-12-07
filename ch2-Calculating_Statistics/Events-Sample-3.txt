@@ -1,0 +1,7 @@
+server=pluto status=success response_time=345 state=IL
+server=earth status=success response_time=231 state=MN
+server=earth status=fail response_time=5023 state=WI
+server=venus status=success response_time=120 state=MN
+server=pluto status=success response_time=65 state=MN
+server=earth status=success response_time=438 state=IL
+server=saturn status=fail response_time=5045 state=MN

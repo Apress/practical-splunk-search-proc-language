@@ -1,0 +1,4 @@
+
+04-21-2020 23:47:19.208 -0500 INFO Process - app_Time=56.56 db_Time=3.45 web_Time=10.34
+04-21-2020 23:47:19.208 -0500 INFO Process - app_Time=123.75 db_Time=10.59 web_Time=45.76
+04-21-2020 23:47:19.208 -0500 INFO Process - app_Time=87.99 db_Time=68.01 web_Time=19.18
